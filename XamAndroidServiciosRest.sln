@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamAndroidServiciosRest", "XamAndroidServiciosRest\XamAndroidServiciosRest.csproj", "{72B98D72-6AC2-495C-A79C-2DD74AB2EC93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72B98D72-6AC2-495C-A79C-2DD74AB2EC93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72B98D72-6AC2-495C-A79C-2DD74AB2EC93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72B98D72-6AC2-495C-A79C-2DD74AB2EC93}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{72B98D72-6AC2-495C-A79C-2DD74AB2EC93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72B98D72-6AC2-495C-A79C-2DD74AB2EC93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72B98D72-6AC2-495C-A79C-2DD74AB2EC93}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A196E93B-0B9B-404D-9048-D7CA9878B5A8}
+	EndGlobalSection
+EndGlobal

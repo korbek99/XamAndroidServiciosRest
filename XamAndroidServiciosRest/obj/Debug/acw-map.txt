@@ -1,0 +1,4 @@
+XamAndroidServiciosRest.MainActivity, XamAndroidServiciosRest;md5c81251bff11d1441c3e12d0115772db9.MainActivity
+XamAndroidServiciosRest.MainActivity, XamAndroidServiciosRest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c81251bff11d1441c3e12d0115772db9.MainActivity
+XamAndroidServiciosRest.MainActivity;md5c81251bff11d1441c3e12d0115772db9.MainActivity
+xamandroidserviciosrest.MainActivity;md5c81251bff11d1441c3e12d0115772db9.MainActivity
